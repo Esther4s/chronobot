@@ -6,7 +6,7 @@ import sqlite3
 import datetime
 
 # === НАСТРОЙКИ ===
-TOKEN = 'MTM3NDAxMTYxNjQyMDQzMzkzMQ.Gy3M0k.SlbUiggIhvZNoB7Qd9BZ6ppd4KC16cBQ0o6bdg'
+TOKEN = 'Bot_Token'
 PREFIX = '/'
 
 bot = commands.Bot(command_prefix=PREFIX, intents=discord.Intents.all())
